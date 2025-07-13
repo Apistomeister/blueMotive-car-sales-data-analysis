@@ -1,8 +1,12 @@
 
-# BlueMotive Car Sales — Data Analysis Project
+# BlueMotive Car Sales Data Analysis
 
-This project analyzes car sales data for **BlueMotive**, a fictional car sales company.  
-The project was completed as part of a data analysis coursework assignment.
+This project involves exploratory data analysis (EDA) on a car sales dataset to identify patterns, trends, and insights. Implemented using Python, pandas, matplotlib, and seaborn.
+
+## Features
+- Outlier detection
+- Correlation analysis
+- Visualizations of pricing and mileage
 
 ---
 
